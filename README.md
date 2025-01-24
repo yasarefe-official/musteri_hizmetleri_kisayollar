@@ -1,2 +1,2 @@
-# musteri_hizmetleri_k-sayollar
+# musteri_hizmetleri_kisayollar
 Müşteri hizmetlerine bağlanmak için kısayollar sunan github.io sitesi.
